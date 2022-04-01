@@ -1,5 +1,5 @@
-<h1 align="center"> ✨ Hi there 👋 I'm NAKITYO JOANITA ✨ </h1>
-<h3 align="center">Web developer with strong passion for data science</h3>
+<h1 align="center"> Hi there 👋 <br/>✨ I'm NAKITYO JOANITA ✨ </h1>
+<h3 align="center">Full stack Web developer with strong passion for data science</h3>
 
 ### Contact me on
 
@@ -10,7 +10,8 @@
   </div>
 
  <br/>
-- ### 🔭 I’m currently working on an Online Booking App (https://schotrix.netlify.app/)
+- ### 🔭 I’m currently working on an Online appointment system (https://schotrix.netlify.app/)
+<!-- - 💬 Ask me about how  -->
 
 <div style="display:flex;flex-direction:row;justify-content:space-between; width:80%!important;">
 
