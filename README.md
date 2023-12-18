@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 <br/>✨ I'm NAKITYO JOANITA ✨ </h1>
-<h3 align="center">Full stack Web developer with strong passion for data science</h3>
+<h3 align="center">Full stack Web developer with strong passion foropen source development</h3>
 
 
 ### Contact me on
