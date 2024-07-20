@@ -1,6 +1,5 @@
-<h1 align="center"> Hi there 👋 <br/>✨ I'm NAKITYO JOANITA ✨ </h1>
-<h3 align="center">Full stack Web developer with strong passion foropen source development</h3>
-
+<h1 align="center"> Hi there 👋 <br/>✨ I'm JOANITA NAKITYO ✨ </h1>
+<h3 align="center">A system security enthusiast deeply passionate about open source development and fostering vibrant tech communities. </h3>
 
 ### Contact me on
 
@@ -10,8 +9,9 @@
   <a href="https://www.linkedin.com/in/joanita-nakityo-36900a1b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
+
  <br/>
-- ### 🔭 I’m currently working on a Tourism App (https://e-tourism-uganda.netlify.app/)
+
 <!-- - 💬 Ask me about how  -->
 
 ![Joanita's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOANITA-51&show_icons=true&theme=radical)
