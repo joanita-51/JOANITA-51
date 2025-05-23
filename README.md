@@ -14,7 +14,7 @@
 
 <!-- - 💬 Ask me about how  -->
 
-![Joanita's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOANITA-51&show_icons=true&theme=radical)
+<!--  ![Joanita's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOANITA-51&show_icons=true&theme=radical)  -->
 
 <div style="display:flex;flex-direction:row;justify-content:space-between; width:80%!important;">
 
